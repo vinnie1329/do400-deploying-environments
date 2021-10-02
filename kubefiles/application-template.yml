@@ -120,3 +120,6 @@ parameters:
     description: "Image Tag"
     required: false
     value: "latest"
+    name: APP_ENVIRONMENT
+    description: "Deployment environment"
+    required: true
